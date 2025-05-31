@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hamid Shaerpour (Hamidmine)</h1>
 <h3 align="center">Front/Back Developer And Minecraft, MTA Plugin/Script Writer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidmine76b&label=Profile%20views&color=0e75b6&style=flat" alt="hamidmine76b" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidmine76b&label=Profile%20views&color=0e75b6&style=flat" alt="hamidmine" /> </p>
 
-- 🔭 I’m currently working on [PersianGaming](https://persiangaming.ir/)
+- 🔭 I’m currently working on [PersianGaming](https://shurumrp.ir)
 
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamidmine76b](https://github.com/hamidmine76b)
 
-- 👤My Website [https://coderhamid.ir/](https://coderhamid.ir/)
+- 👤My Website [https://coderhamid.ir/](https://hamidshaerpour.ir)
 
 - 💬 Contact me [https://t.me/hamidshaerpour](https://t.me/hamidshaerpour)
 
